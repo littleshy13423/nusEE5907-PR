@@ -1,0 +1,3 @@
+The experiments mainly used the PIE dataset, plus the 0I_bw dataset created by myself (in the same format as PIE). The data was classified and analysed for accuracy using PCA, LDA, SVM, CNN respectively. The project can be run just by clicking on it and all the packages required can be installed using PIP.
+
+实验主要采用PIE数据集，加上由本人创建的0I_bw数据集（格式与PIE相同）。分别使用PCA, LDA, SVM, CNN进行了数据分类并分析了准确率。项目只需要通过点击即可运行，所有需要用到的包都可以使用PIP安装。
